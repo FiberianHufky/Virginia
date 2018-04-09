@@ -1,0 +1,21 @@
+﻿<Window x:Class="VirginiaD1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirginiaD1"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="350" MinWidth="525" MaxWidth="760">
+    <Grid Name="mainest" Background="#FF23342E">
+        <Grid Name="menu" Margin="0" VerticalAlignment="Top" Height="42.667" Background="#FF23222B">
+            <Button Content="REMOVE PACKAGES" Width="130" Height="32" Background="#FF7C7A7A" HorizontalAlignment="Left" FontFamily="Microsoft YaHei UI Light" Margin="5,0,0,0" Click="delette"/>
+            <Button Content="INSTALL DELETED PACKAEGS" Width="199.333" Height="32" Background="#FF7C7A7A" HorizontalAlignment="Left" FontFamily="Microsoft YaHei UI Light" Margin="140,5.333,0,5.333" Click="restore"/>
+        </Grid>
+
+        <Grid Name="contentgrid" Margin="0,42.667,0,0" Background="#FF23342E">
+
+            
+
+        </Grid>
+    </Grid>
+</Window>

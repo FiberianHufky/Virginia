@@ -1,0 +1,7 @@
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\bin\Release\CleansingsD1.dll
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\bin\Release\CleansingsD1.pdb
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\bin\Release\Windows.winmd
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\obj\Release\CleansingsD1.csprojResolveAssemblyReference.cache
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\obj\Release\CleansingsD1.csproj.CoreCompileInputs.cache
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\obj\Release\CleansingsD1.dll
+C:\Users\None\Desktop\VirginiaD1\CleansingsD1\obj\Release\CleansingsD1.pdb

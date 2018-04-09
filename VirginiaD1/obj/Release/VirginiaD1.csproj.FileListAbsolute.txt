@@ -1,0 +1,19 @@
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\VirginiaD1.exe.config
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\VirginiaD1.exe
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\VirginiaD1.pdb
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\CleansingsD1.dll
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\Windows.winmd
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\bin\Release\CleansingsD1.pdb
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.csprojResolveAssemblyReference.cache
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\Simple Styles.baml
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\MainWindow.g.cs
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\App.g.cs
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1_MarkupCompile.cache
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1_MarkupCompile.lref
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\MainWindow.baml
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.g.resources
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.Properties.Resources.resources
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.csproj.GenerateResource.Cache
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.csproj.CoreCompileInputs.cache
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.exe
+C:\Users\None\Desktop\VirginiaD1\VirginiaD1\obj\Release\VirginiaD1.pdb
